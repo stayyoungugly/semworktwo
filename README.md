@@ -1,1 +1,1 @@
-![Иллюстрация к проекту](https://github.com/danisimos/JavaFXGame/blob/master/src/main/resources/images/illustration.png)
+
