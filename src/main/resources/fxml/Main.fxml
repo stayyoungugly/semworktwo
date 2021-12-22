@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="pane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="226.0" prefWidth="338.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ru.itis.controller.MainMenuController">
+    <Button mnemonicParsing="false" onAction="#startServerButtonTapped" prefHeight="0.0" prefWidth="0.0" text="Start server" textFill="BLUE" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="50.0" />
+    <Button layoutX="100.0" layoutY="91.0" mnemonicParsing="false" onAction="#connectButtonTapped" prefHeight="0.0" prefWidth="0.0" text="Connect" textFill="BLUE" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="91.0" />
+    <Button layoutX="100.0" layoutY="152.0" mnemonicParsing="false" text="Exit" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="152.0" />
+</AnchorPane>
